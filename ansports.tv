@@ -1,0 +1,9 @@
+{
+  "package_name": "com.ansports.tv",
+  "latest_version": 1,
+  "version_name": "2.0.0",
+  "force_update": true,
+  "title": "MovieBox Update Available",
+  "message": "A new version is available. Please update now.",
+  "download_url": "https://example.com/MovieBox.apk"
+}
